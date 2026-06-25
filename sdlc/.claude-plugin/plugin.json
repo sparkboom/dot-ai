@@ -1,0 +1,11 @@
+{
+  "name": "sdlc",
+  "displayName": "sdlc",
+  "version": "0.1.0",
+  "description": "Software development lifecycle — git, PRs, code review, security.",
+  "author": {
+    "name": "Matt"
+  },
+  "license": "MIT",
+  "keywords": ["sdlc", "git", "pr", "code-review", "security", "skills"]
+}

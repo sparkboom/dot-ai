@@ -1,0 +1,11 @@
+{
+  "name": "pkm",
+  "displayName": "pkm",
+  "version": "0.1.0",
+  "description": "Personal knowledge management — Obsidian vaults, note-taking, web research, second-brain workflows.",
+  "author": {
+    "name": "Matt"
+  },
+  "license": "MIT",
+  "keywords": ["pkm", "obsidian", "notes", "research", "second-brain", "skills"]
+}
