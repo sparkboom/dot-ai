@@ -1,0 +1,16 @@
+{
+  "name": "dot-ai",
+  "displayName": "dot-ai",
+  "version": "0.1.0",
+  "description": "Shared AI resources: skills, agents, rules, hooks, and MCP. Cursor consumes the same canonical files as Claude Code.",
+  "author": {
+    "name": "Matt"
+  },
+  "license": "MIT",
+  "keywords": ["dot-ai", "skills", "agents", "rules", "hooks", "mcp"],
+  "skills": "./skills",
+  "agents": "./agents",
+  "rules": "./rules",
+  "hooks": "./cursor/hooks.json",
+  "mcpServers": "./mcp.json"
+}

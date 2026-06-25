@@ -1,0 +1,11 @@
+{
+  "name": "dot-ai",
+  "displayName": "dot-ai",
+  "version": "0.1.0",
+  "description": "Shared AI resources: skills, agents, rules, hooks, and MCP — Claude Code is the canonical runtime.",
+  "author": {
+    "name": "Matt"
+  },
+  "license": "MIT",
+  "keywords": ["dot-ai", "skills", "agents", "rules", "hooks", "mcp"]
+}
