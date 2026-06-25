@@ -1,0 +1,17 @@
+{
+  "name": "dot-ai",
+  "owner": {
+    "name": "Matt"
+  },
+  "metadata": {
+    "description": "Shared AI resources for Claude Code and Cursor",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "dot-ai",
+      "source": ".",
+      "description": "Skills, agents, rules, hooks, and MCP shared across projects"
+    }
+  ]
+}
